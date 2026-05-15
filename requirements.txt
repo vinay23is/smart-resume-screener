@@ -3,3 +3,4 @@ python-docx
 pdfplumber
 python-dotenv
 google-generativeai
+fpdf2
